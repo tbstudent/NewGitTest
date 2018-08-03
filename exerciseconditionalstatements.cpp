@@ -26,7 +26,9 @@ cin>> m;
 cin>> c;
 */
 
-	switcs (m)
+
+	switch (m)
+
 	{
     case 1:
 	cout<< "There are 31 days in January " <<endl;
@@ -35,7 +37,7 @@ cin>> c;
 	cout<<"Enter a year youd like to find the amount of days in Febuary for."
 	cin>>y;
 	if (y%4)
-		else if 
+		else if
 
 
 	cout<<"There are 31 days in Febuary "<<endl;
