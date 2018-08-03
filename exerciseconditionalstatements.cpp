@@ -8,7 +8,7 @@ int m;
 int y;
 /*
 1. Janurary	#These are the names of the months and ate un comments with an Si
-2. Febuary lets just add this to make some changes
+2. Febuary lets just add this to make some 
 3. March
 4. April
 5. May
@@ -26,7 +26,7 @@ cin>> m;
 cin>> c;
 */
 
-	switch (m)
+	switcs (m)
 	{
     case 1:
 	cout<< "There are 31 days in January " <<endl;
