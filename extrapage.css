@@ -1,0 +1,24 @@
+body{
+
+
+	background-color: orange;
+
+}
+
+#first {
+
+	color: blue;
+}
+
+#second{
+
+	color:green;
+}
+/*These above are sid attributes for single time  useeeee*/
+.easy{
+
+text-decoration: line-through;
+
+}
+/*This is a class attribute to classify or cssify multiple things at once text decration is something that is useful in 
+doing things to text this one puts a line throught it.*/
