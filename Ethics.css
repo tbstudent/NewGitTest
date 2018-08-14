@@ -5,13 +5,11 @@
 			}
 */
 h1{
-	color: #00AEE3
- 	border-color:#E30000
- 	border-style: solid;
- 	border-width: 5px;
+	font-size: 250px;
+	color: white;
 }
 h2{
-color: #00AEE3
+font-family: Georgia;
 
 }
 
@@ -19,7 +17,10 @@ h3{color: #00AEE3}
 
 h4{color: #00AEE3}
 
-li{color: #00AEE3}
+
+li{
+	font-family: Arial;
+}
 ol{
 
 	color: #00AEE3
@@ -30,24 +31,47 @@ ol{
  	
  	background: url(BABE.jpg) ;
 
+ 	span{
+ 		font-size: 2.5em;
 
- 	/*This chick i think is the hottest of them all*/
+ 	}
+
+/*This thing above basically makes the text within a section 2.5x as big or small*/
 
 
- 	<
+
+li{
+
+ font-weight: 800; 
+}
+/*These below are som of the  more advanced selectors that may come in handy other than the ID and Class selectors*/
 
 
+
+/*Line height */
+li{
+	line-height:1.5;
+}
+
+/*Text align */
+ 
+
+ li{
+
+
+ 	text-align: center;
+
+ }
+
+
+li{
+
+
+	text-decoration: line-through;
 }
 
 
-/*These below are som of the  more advanced selectors that may come in handy other than the ID and Class selectors*/
-/*
-
-
-
-
-
-/*Element*/
+/*Element
 /*li {*/
 
 }
@@ -57,7 +81,12 @@ ol{
 }
 /*id*/
 /*#name {*/
+/*Goodle fonts........................................................look it up select it and its weights and copy and 
 
+paste the linktag!!!!! in your HTML and than use it .
+
+
+*/
 }
 
 /*Star*/
