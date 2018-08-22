@@ -96,12 +96,18 @@
 //**************EVERYTHING BEYOND THIS POINT IS INCLUDES FUNCTIONS*************************
 
 // This Function takes as input two numbers and calculates the area of a square or rectangle
-var side1= prompt("Enter the length of the side one!")
-var side2= prompt("Enter the length of the second side!")
+// var side1= prompt("Enter the length of the side one!")
+// var side2= prompt("Enter the length of the second side!")
 
-function area(side1, side2){
+// function area(side1, side2){
 
-	console.log(area());
+// 	console.log(area());
+// }
+
+function sayHi(name1,name2,name3){
+
+console.log("Hello There "+ name1);
+console.log("Hello There "+ name2);
+console.log("Hello There "+ name3);
 }
-
 

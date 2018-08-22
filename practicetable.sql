@@ -42,3 +42,21 @@
 
 -- INSERT INTO penis_info3 ()
 -- 	VALUES ();
+
+
+
+
+
+-- CREATE DATABASE FACULTY;
+
+CREATE TABLE falucty_info1 (
+			Department VARCHAR(25) NOT NULL DEFAULT "Not Available",
+			Extention INT NOT NULL DEFAULT 0,
+			First_Name VARCHAR(15) NOT NULL DEFAULT "Not Available",
+			Last_Name VARCHAR (15) NOT NULL DEFAULT "Not Available",
+			Birth_Year INT NOT NULL DEFAULT 0,
+			SNumber INT NOT NULL DEFAULT 0, 
+			PRIMARY KEY (SNumber)
+
+);
+
