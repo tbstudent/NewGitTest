@@ -43,6 +43,7 @@
 -- INSERT INTO penis_info3 ()
 -- 	VALUES ();
 
+
 --  primary KEY==== IS A UNIQUE IDENTIFIER.
 -- you simply just added to the end as a key term and determine it as a roq that is the key,,
 CREATE TABLE penis_info4(
@@ -52,4 +53,22 @@ girls VARCHAR(50) NOT NULL DEFAULT "NAME NOT GIVEN",
 girth INT NOT NULL DEFAULT 0,
 penis_info INT NOT NULL,
 PRIMARY KEY (penis_info));
+
+
+
+
+
+-- CREATE DATABASE FACULTY;
+
+CREATE TABLE falucty_info1 (
+			Department VARCHAR(25) NOT NULL DEFAULT "Not Available",
+			Extention INT NOT NULL DEFAULT 0,
+			First_Name VARCHAR(15) NOT NULL DEFAULT "Not Available",
+			Last_Name VARCHAR (15) NOT NULL DEFAULT "Not Available",
+			Birth_Year INT NOT NULL DEFAULT 0,
+			SNumber INT NOT NULL DEFAULT 0, 
+			PRIMARY KEY (SNumber)
+
+);
+
 
