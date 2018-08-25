@@ -96,12 +96,43 @@
 //**************EVERYTHING BEYOND THIS POINT IS INCLUDES FUNCTIONS*************************
 
 // This Function takes as input two numbers and calculates the area of a square or rectangle
-var side1= prompt("Enter the length of the side one!")
-var side2= prompt("Enter the length of the second side!")
 
-function area(side1, side2){
 
-	console.log(area());
+
+// var side1= prompt("Enter the length of the side one!")
+// var side2= prompt("Enter the length of the second side!")
+
+// function area(side1, side2){
+
+// 	console.log(area());
+// }
+
+//This below takes uses a function to say hello or some phrase to several people at once
+// when the Function is called with the peoples names.
+
+// function sayHello(person1,person2,person3){
+
+// console.log("Hello there "+ person1+ "!!");
+// console.log("Hello there "+ person2+ "!!");
+// console.log("Hello there "+ person3+ "!!");
+
+// }
+
+//******************************RETURNS*****************************************
+
+// function bell(decibal){
+// 	return decibal * decibal ;
+// }
+
+// var decibalring=bell();
+
+// function square (x){
+// 	return x*x;
+// }
+
+function capitilize(str) {
+	return str.charAt(0). toUpperCase() + str.slice(1);
 }
 
-
+var city= "paris";
+var capital= capitilize(city);

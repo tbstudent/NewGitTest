@@ -42,3 +42,14 @@
 
 -- INSERT INTO penis_info3 ()
 -- 	VALUES ();
+
+--  primary KEY==== IS A UNIQUE IDENTIFIER.
+-- you simply just added to the end as a key term and determine it as a roq that is the key,,
+CREATE TABLE penis_info4(
+length_1 INT  NOT NULL DEFAULT 0,
+name VARCHAR(20) NOT NULL ,
+girls VARCHAR(50) NOT NULL DEFAULT "NAME NOT GIVEN",
+girth INT NOT NULL DEFAULT 0,
+penis_info INT NOT NULL,
+PRIMARY KEY (penis_info));
+
