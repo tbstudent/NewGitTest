@@ -1,0 +1,111 @@
+body{
+  background: url(https://images.unsplash.com/photo-1415369629372-26f2fe60c467?ixlib=rb-0.3.5&s=4e3735cae3509bd20097c5ec61c32593&auto=format&fit=crop&w=634&q=80);
+  background-size: cover;
+  background-position: center;
+  font-family: 'Prompt', sans-serif;
+
+;
+  color: gray;
+  padding-top: 105px;
+}
+
+#nav-item {
+ font-family: Lato;
+  color: gray;
+
+
+}
+
+.jumbotron{
+	
+	color: #e69500;
+	font-style: 
+
+}
+
+#navbar-brand123{
+	color: #e69500;
+}
+
+#navbarDropdown{
+	color: #e69500;
+}
+/*home link font color*/
+#nav-linkhome{
+	color: #e69500;
+}
+
+
+
+
+#nav-itemcontactus{
+	color: #e69500;
+}
+
+#nav-itemaboutus{
+	color: #e69500;
+}
+}
+#Kitchen1 {
+
+}
+
+#bathroomcontainer{
+	text-align: center;
+}
+
+#Kitchencontainer{
+	text-align: center;
+}
+
+#nav-itemgallery{
+	color: #e69500;
+}
+
+#tilescontainer{
+	text-align: center;
+}
+
+#floorscontainer{
+	text-align: center;
+}
+
+/*.btn btn-primary btn-lg{
+background-color: #1438ff;
+	color: #e69500;
+
+	}
+
+.dropdown-item{
+		background-color: #1438ff;
+	color: #e69500;
+}
+
+.bg-dark{
+background-color: #1438ff;
+	color: #e69500;
+
+}
+
+.navbar-dark .navbar-brand{
+	background-color: #1438ff;
+	color: #e69500;
+
+}
+.dropdown-menu{
+	background-color: #1438ff;
+	color: #e69500;
+
+}
+
+.navbar-expand-lg .navbar-collapse{
+	background-color: #1438ff;
+	color: #e69500;
+
+}
+
+.navbar navbar-expand-lg navbar-dark bg-dark navbar fixed-top a.navbar-brand{
+	
+	color: #e69500;
+*/
+}
