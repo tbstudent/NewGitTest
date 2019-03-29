@@ -1,0 +1,38 @@
+body{
+
+
+	background-color: orange;
+
+}
+
+#first {
+
+	color: blue;
+}
+
+#second{
+
+	color:green;
+}
+/*These above are sid attributes for single time  useeeee*/
+.easy{
+
+text-decoration: line-through;
+
+}
+/*This is a class attribute to classify or cssify multiple things at once text decration is something that is useful in 
+doing things to text this one puts a line throught it.*/
+
+/*These other css attributes are pretty useful like this next one called the decendant attribute
+it takes everything within a certain tag Ex: All the <a> tags in <li>*/
+
+li a {
+
+	color: red;
+}
+/*adjacent selector*/
+h4 + ul {
+
+	
+}
+
